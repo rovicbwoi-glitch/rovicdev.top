@@ -1,0 +1,28 @@
+[22-Jun-2025 10:12:12 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php:847
+Stack trace:
+#0 /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php(828): mysql_db->StripSlashes('')
+#1 /home/dxpluson/spidermanvip.xyz/includes/functions.php(28): mysql_db->Sanitize('')
+#2 /home/dxpluson/spidermanvip.xyz/api/authentication/deleted.php(4): require_once('/home/dxpluson/...')
+#3 {main}
+  thrown in /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php on line 847
+[22-Jun-2025 10:13:01 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php:847
+Stack trace:
+#0 /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php(828): mysql_db->StripSlashes('')
+#1 /home/dxpluson/spidermanvip.xyz/includes/functions.php(28): mysql_db->Sanitize('')
+#2 /home/dxpluson/spidermanvip.xyz/api/authentication/active.php(4): require_once('/home/dxpluson/...')
+#3 {main}
+  thrown in /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php on line 847
+[22-Jun-2025 10:13:07 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php:847
+Stack trace:
+#0 /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php(828): mysql_db->StripSlashes('')
+#1 /home/dxpluson/spidermanvip.xyz/includes/functions.php(28): mysql_db->Sanitize('')
+#2 /home/dxpluson/spidermanvip.xyz/api/authentication/inactive.php(4): require_once('/home/dxpluson/...')
+#3 {main}
+  thrown in /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php on line 847
+[22-Jun-2025 10:13:12 Asia/Riyadh] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php:847
+Stack trace:
+#0 /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php(828): mysql_db->StripSlashes('')
+#1 /home/dxpluson/spidermanvip.xyz/includes/functions.php(28): mysql_db->Sanitize('')
+#2 /home/dxpluson/spidermanvip.xyz/api/authentication/deleted.php(4): require_once('/home/dxpluson/...')
+#3 {main}
+  thrown in /home/dxpluson/spidermanvip.xyz/includes/mysql.class.php on line 847

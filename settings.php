@@ -6,5 +6,5 @@ if($user_id_2 == 1 || $user_level_2 == 'superadmin'){
 	header("Location: /dashboard");	
 }
 
-$smarty->display("server.tpl");
+$smarty->display("settings.tpl");
 ?>
